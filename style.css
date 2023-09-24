@@ -1,0 +1,39 @@
+.navbar .navbar-brand img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+}
+
+.restur {
+  padding: 80px 0;
+}
+
+.restur .row {
+  gap: 20px 0;
+}
+
+.restur .card .title {
+  padding: 16px;
+}
+
+.restur .card .title h3 {
+  font-size: 18px;
+}
+
+.restur .card .title p {
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.restur .card .title .d-f {
+  display: flex;
+  justify-content: space-between;
+}
+
+.restur .card .title .d-f h4 {
+  font-size: 16px;
+}
+
+.restur .card .title .dish-menu {
+  color: #271c1c;
+}
