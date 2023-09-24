@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faizi20/React_Food.git"
+    "url": "git+https://github.com/faizi20/React-Food.git"
   },
   "keywords": [
     "react"
@@ -16,9 +16,9 @@
   "author": "Faizan Khan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/faizi20/React_Food/issues"
+    "url": "https://github.com/faizi20/React-Food/issues"
   },
-  "homepage": "https://github.com/faizi20/React_Food#readme",
+  "homepage": "https://github.com/faizi20/Reac-Food#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
